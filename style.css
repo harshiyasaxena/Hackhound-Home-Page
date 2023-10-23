@@ -292,7 +292,7 @@ footer {
   justify-content: center;
   align-items: center;
   width: 100%;
-  background: #3586ff;
+  background: radial-gradient(939px at 0.7% 2.4%, rgb(116, 106, 255) 50%, rgb(229, 210, 246) 100.2%);
   height: 190px;
   padding: 0px 0px;
   flex-direction: column;
@@ -314,7 +314,7 @@ footer .menu li {
 
 footer .social-icons li a {
   font-size: 2em;
-  color: #fff;
+  color: black;
   margin: 0 10px;
   display: inline-block;
   transition: 0.5s;
@@ -326,12 +326,13 @@ footer .social-icons li a {
 
 footer .menu li a {
   font-size: 1.4em;
-  color: #fff;
+  color: black;
   margin: 0 10px;
   display: inline-block;
   text-decoration: none;
   opacity: 0.75;
   transition: 0.5s;
+  font-weight: bold;
 }
 
 footer .menu li a:hover {
