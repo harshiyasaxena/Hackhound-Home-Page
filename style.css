@@ -135,7 +135,7 @@ nav li:hover::before {
 .left,.right {
   min-height: 1em;
   background: white;
-  background-image: linear-gradient(315deg, #ba9a8e 0%, #96705b 74%);
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
   position: absolute;
   top: 0px;
   bottom: 0px;
